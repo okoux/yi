@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://okoux.github.io/yi/sitemap.xml
